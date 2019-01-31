@@ -15,8 +15,9 @@ For this step, you need to download and install GitHub Desktop.
 1. Open GitHub Desktuop and log-in using GitHub account;
 2. On the Current Repository (left top) click on Add button;
 3. Click URL tab. Using project url you can clone *ArcGIS Runtime SDK for Xamarin* on your computer
-# Project settings
+# Visual Studio solution
 1. Open Visual Studio solution;
+## What you can find?
 2. Into the Visual Studio solution, you can find 4 projects:
 
     *ArcGISX1.Android* for Android OS;
@@ -26,13 +27,13 @@ For this step, you need to download and install GitHub Desktop.
     *ArcGISX1.UWP*     for Windows OS;
 	
     *ArcGISX1.Shared*  developing project;
-	
+
 3. select *ArcGISX1.Shared* and open *MapViewModel.cs* class. The *ArcGISX1.Shared* project is place where you can add more functionalities;
 4. You must change the url from line **49**. A good ideea is to start with project url. Is a public url. So, paste your url into the code;
 For just a secunde you can look at the line **49**. The url from line **49** is a featureserver service. What this means??
 No matter how many layers you have into feature server service. The application will use all the layers in the service. 
 You just discovered the first customization. 
-# What can you give up?
+## What can you give up?
 *ArcGISX1.Shared\util\intrare.cs* is a coordinate simulator. It's just for the demo, nothing else.
 # Where to add more functionalities?
 You can add more editing functionalities.
