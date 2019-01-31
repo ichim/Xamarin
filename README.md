@@ -1,5 +1,5 @@
 # ArcGIS Runtime SDK for Xamarin
-This project was presented in the **2018 Esri Users Conference** and in the **2018 ESRI Webinar Session**.
+This project was presented in the **2018 Esri Romania Users Conference** and in the **2018 ESRI Romania Webinar Session**.
 For this demo, I used Visual Studio 2017 (C# and Xamarin technologies).
 How can you use this project?
 First of all, you need visual studio (2017 version is a good idea) and GitHub Extension for Visual Studio.
