@@ -2,13 +2,19 @@
 This project was presented in the **2018 Esri Romania Users Conference** and in the **2018 ESRI Romania Webinar Session**.
 For this demo, I used Visual Studio 2017 (C# and Xamarin technologies).
 How can you use this project?
-First of all, you need visual studio (2017 version is a good idea) and GitHub Extension for Visual Studio.
+First of all, you need Visual Studio (2017 version is a good idea) and GitHub Extension for Visual Studio.
 # How do you start to participate on this project?
+## Starting with Visual Studio 2017
 1. Open Visual Studio 2017
 2. Displays the *Team Explorer Window* using **Ctrl +** \ or **Ctrl + M** or clicking on the *Team Explorer* option of *View* menu;
 3. Click on Connect... (ellipsis option) on the GitHub option;
 4. You must provide GitHub user and password and Sign In;
 5. Using project url you can clone *ArcGIS Runtime SDK for Xamarin* on your computer;
+## Starting with GitHub Desktop
+For this step, you need to download and install GitHub Desktop.
+1. Open GitHub Desktuop and log-in using GitHub account;
+2. On the Current Repository (left top) click on Add button;
+3. Click URL tab. Using project url you can clone *ArcGIS Runtime SDK for Xamarin* on your computer
 # Project settings
 1. Open Visual Studio solution;
 2. Into the Visual Studio solution, you can find 4 projects:
